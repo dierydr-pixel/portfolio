@@ -47,15 +47,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section className="Editor">
-        <div id="editor">some text</div>
-        <script
-          src="./Fuente/ace.js"
-          type="text/javascript"
-          charset="utf-8"
-        ></script>
-        <script>var editor = ace.edit("editor");</script>
-      </section>
       <section className="projects" id="projects">
         <h2>Selected Projects</h2>
 
